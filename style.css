@@ -1,0 +1,43 @@
+body{
+   font-family: Papyrus;
+ background-color: #4C585B;
+ text-align: center;
+}
+#display{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.container1{
+   border:solid ;
+    border-radius: 20px;
+    background-color: #7E99A3;
+    display: flex;
+    justify-content: space-around;
+
+}
+.container2{
+    margin-top: 10px;
+    border:solid ;
+     border-radius: 20px;
+     background-color: #A5BFCC;
+     display: flex;
+     justify-content: space-around;
+
+  
+}
+.soaal{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+button{
+   background-color: #F4EDD3;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.userControl{
+   display: flex;
+   justify-content: space-around;
+}
